@@ -33,7 +33,6 @@ export interface Aluno {
     email: string
     /** Data em ISO 8601, ex.: 2003-05-10T00:00:00.000Z */
     nascimento: string
-    curso_id: number
 }
 
 export interface Turma {
